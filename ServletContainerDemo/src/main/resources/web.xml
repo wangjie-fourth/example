@@ -1,0 +1,9 @@
+<web-fragment>
+    <servlet>
+        <servlet-name>welcome</servlet-name>
+        <servlet-class>com.wangjie.MyServlet</servlet-class>
+    </servlet>
+    <listener>
+        <listener-class>RequestListener</listener-class>
+    </listener>
+</web-fragment>

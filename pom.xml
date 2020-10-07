@@ -11,6 +11,8 @@
     <modules>
         <module>HttpServerDemo</module>
         <module>SpringMvcDemo</module>
+        <module>ServletContainerDemo</module>
+        <module>IocDemo</module>
     </modules>
 
 
